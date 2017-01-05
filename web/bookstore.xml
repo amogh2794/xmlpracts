@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+    <bookstores>
+        <books category="cooking">
+            <title lang="en">Everyday Italian</title>
+            <author>amogh de laurentis</author>
+            <year>2005</year>
+            <price>30.00</price>
+        </books>
+        <books category="children">
+            <title lang="en">harrypotter</title>
+            <author>j k rowling</author>
+            <year>2000</year>
+            <price>99.0</price>
+        </books>
+        <books category="web">
+            <title lang="en">learning xml</title>
+            <author>erik t. ray</author>
+            <year>2003</year>
+            <price>39.00</price>
+        </books>
+        <books category="programming">
+            <title lang="en">introduction to c++</title>
+            <author>amogh vaidya</author>
+            <year>2003</year>
+            <price>39.00</price>
+        </books>
+        <books category="accounts">
+            <title lang="en">introduction to accounts</title>
+            <author>erik t. ray</author>
+            <year>2010</year>
+            <price>39.00</price>
+        </books>
+    </bookstores>
+
